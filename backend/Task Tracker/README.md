@@ -27,5 +27,7 @@ A simple command-line tool for managing tasks efficiently.
    python task_tracker.py list
 7. List tasks by status:
    python task_tracker.py list done
+   
    python task_tracker.py list todo
+   
    python task_tracker.py list in-progress
