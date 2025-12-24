@@ -2,7 +2,7 @@
 
 📌 Backend projects:
 
-1️⃣ Task Tracker CLI URL:https://roadmap.sh/projects/task-tracker ➖ [Solution](https://github.com/moujahentin/roadmap.sh/tree/main/backend/Task%20Tracker)
+1️⃣ Task Tracker CLI URL:https://roadmap.sh/projects/task-tracker ➖ [Solution](<a href=https://github.com/moujahentin/roadmap.sh/tree/main/backend/Task%20Trackertarget="_blank">Κάνε κλικ εδώ</a>)
 
 2️⃣️ Number Guessing Game URL:https://roadmap.sh/projects/number-guessing-game ➖ [Solution](https://github.com/moujahentin/roadmap.sh/tree/main/backend/Number%20Guessing%20Game)
 
