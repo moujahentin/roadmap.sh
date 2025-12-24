@@ -1,4 +1,4 @@
-<a href=https://github.com/moujahentin/roadmap.shtarget="_blank">This</a> repository contains solutions for roadmap.sh projects.
+<a href=https://github.com/moujahentin/roadmap.sh target="_blank">This</a> repository contains solutions for roadmap.sh projects.
 
 📌 Backend projects:
 
