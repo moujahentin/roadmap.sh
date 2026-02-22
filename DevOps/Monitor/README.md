@@ -3,7 +3,7 @@
 A Bash script that analyzes basic Linux server performance stats (CPU, memory, disk, and top processes).  
 Built as part of the roadmap.sh DevOps roadmap project: **Server Performance Stats**.
 
-Project URL:https://roadmap.sh/projects/server-stats
+Project URL: https://roadmap.sh/projects/server-stats
 
 ## ✅ Features
 - Total CPU usage
