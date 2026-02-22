@@ -8,4 +8,9 @@
 
 3️⃣ GitHub User Activity CLI URL:https://roadmap.sh/projects/github-user-activity ➖<a href=https://github.com/moujahentin/roadmap.sh/tree/main/backend/GitHub%20User%20Activity target="_blank">Solution</a>
 
+
+📌 DevOps projects:
+
+1️⃣ Server Stats URL:https://roadmap.sh/projects/server-stats ➖ <a href=https://github.com/moujahentin/roadmap.sh/tree/main/DevOps/Monitor target="_blank">Solution</a>
+
 🚧 More Coming Soon
