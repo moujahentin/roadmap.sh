@@ -13,4 +13,6 @@
 
 1️⃣ Server Stats URL:https://roadmap.sh/projects/server-stats ➖ <a href=https://github.com/moujahentin/roadmap.sh/tree/main/DevOps/Monitor target="_blank">Solution</a>
 
+2️⃣️ SSH Remote Server Setup URL:https://roadmap.sh/projects/ssh-remote-server-setup ➖ <a href=https://github.com/moujahentin/roadmap.sh/blob/main/DevOps/SSH%20Remote%20Server%20Setup/README.md target="_blank">Solution</a>
+
 🚧 More Coming Soon
